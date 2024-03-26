@@ -1,1 +1,3 @@
 # CPU_BUILD_STORE
+This is a normal store created solely on the basis of OOPS and exception principle for knowledge basis
+You can add much more fun things, do try to add admin remove peripheral option ........
